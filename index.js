@@ -7,7 +7,7 @@ function beatlesLoops(array1, array2) {
 
 function johnLennonFacts(factsArray) {
   var newArray = [];
-  n = 0;
+  var n = 0;
   while (n < factsArray.length) {
     newArray.push(`${factsArray[n]}!!!`); n++;
   } return newArray;
