@@ -13,10 +13,10 @@ function johnLennonFacts(factsArray) {
   } return newArray;
 }
 
-function iLoveTheBeatles(loveArray) {
+function iLoveTheBeatles(n) {
   var newArray = [];
   do {
     newArray.push(`I love the Beatles!`)
-  } while ()
-  }
+  } while (n <= 7);
+  return newArray
 }
