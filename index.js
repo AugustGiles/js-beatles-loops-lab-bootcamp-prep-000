@@ -5,3 +5,4 @@ function beatlesLoops(array1, array2) {
   } return newArray;
 }
 
+function johnLennonFacts()
